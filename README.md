@@ -1,6 +1,9 @@
 # small_project
 一些小工程
 
+一、Python绘的一些图
+===
+
 1.机器猫
 ---
 ![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/Doraemon/Doraemon.gif)
@@ -17,3 +20,6 @@
 ---
 ![](./钟表/钟表.gif)
 
+5.图片转为素描
+---
+[](./small_project/素描图片/example.png)
