@@ -17,6 +17,3 @@
 ---
 ![](./钟表/钟表.gif)
 
-5.单片机点阵显示
----
-<iframe height=498 width=510 src="small_project/单片机_点阵图显示/V80519-211253.mp4">
