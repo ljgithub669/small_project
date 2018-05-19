@@ -1,5 +1,4 @@
-# small_project
-一些小工程
+*一些有趣的小工程*
 
 一、Python绘的一些图
 ===
@@ -22,4 +21,4 @@
 
 5.图片转为素描
 ---
-[](./small_project/素描图片/example.png)
+![](./small_project/素描图片/example.png)
