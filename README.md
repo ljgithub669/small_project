@@ -22,3 +22,6 @@
 5.图片转为素描
 ---
 ![](./small_project/素描图片/example.png)
+
+6.大小写转化
+![](http://ww1.sinaimg.cn/large/006YKa8tly1g4ty1mreusj311y0kg74y.jpg)
