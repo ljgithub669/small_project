@@ -1,13 +1,13 @@
 *一些有趣的小工程*
 
-一、Python绘的一些图
+一、Python
 ===
 
 1.[机器猫](https://github.com/ljgithub669/small_project/tree/master/%E6%9C%BA%E5%99%A8%E7%8C%AB)
 ---
 ![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/Doraemon/Doraemon.gif)
 
-2.海绵宝宝
+2.[海绵宝宝](https://github.com/ljgithub669/small_project/tree/master/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D)
 ---
 ![](./海绵宝宝/海绵宝宝.gif)
 
@@ -19,11 +19,14 @@
 ---
 ![](./钟表/钟表.gif)
 
-5.[字符转8位二进制](https://github.com/ljgithub669/small_project/tree/master/%E5%AD%97%E7%AC%A6%E8%BD%AC%E4%BA%8C%E8%BF%9B%E5%88%B6)
+二、C/C++
+=====
+
+1.[字符转8位二进制](https://github.com/ljgithub669/small_project/tree/master/%E5%AD%97%E7%AC%A6%E8%BD%AC%E4%BA%8C%E8%BF%9B%E5%88%B6)
 ---
 ![](http://ww1.sinaimg.cn/large/006YKa8tly1g4uqlwijerj311y0kggmj.jpg)
 
-6.大小写转化
+2.大小写转化
 ------
 
 ![](http://ww1.sinaimg.cn/large/006YKa8tly1g4ty1mreusj311y0kg74y.jpg)
