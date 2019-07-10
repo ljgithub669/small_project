@@ -19,7 +19,7 @@
 ---
 ![](./钟表/钟表.gif)
 
-5.[字符转8位二进制]()
+5.[字符转8位二进制](https://github.com/ljgithub669/small_project/tree/master/%E5%AD%97%E7%AC%A6%E8%BD%AC%E4%BA%8C%E8%BF%9B%E5%88%B6)
 ---
 ![](http://ww1.sinaimg.cn/large/006YKa8tly1g4uqlwijerj311y0kggmj.jpg)
 
