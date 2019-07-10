@@ -21,7 +21,7 @@
 
 5.[字符转8位二进制]()
 ---
-![]()
+![](http://ww1.sinaimg.cn/large/006YKa8tly1g4uqlwijerj311y0kggmj.jpg)
 
 6.大小写转化
 ------
