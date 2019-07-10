@@ -3,7 +3,7 @@
 一、Python绘的一些图
 ===
 
-1.机器猫
+1.[机器猫](https://github.com/ljgithub669/small_project/tree/master/%E6%9C%BA%E5%99%A8%E7%8C%AB)
 ---
 ![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/Doraemon/Doraemon.gif)
 
