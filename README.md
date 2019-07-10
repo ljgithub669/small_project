@@ -15,7 +15,7 @@
 ---
 ![](./小猪佩奇/小猪佩奇.gif)
 
-4.钟表
+4.[钟表](https://github.com/ljgithub669/small_project/tree/master/%E9%92%9F%E8%A1%A8)
 ---
 ![](./钟表/钟表.gif)
 
