@@ -19,7 +19,7 @@
 ![](./Python/小猪佩奇/小猪佩奇.gif)
 4.[钟表](https://github.com/ljgithub669/small_project/tree/master/Python/%E9%92%9F%E8%A1%A8)
 ---
-![](.Python/钟表/钟表.gif)
+![](./Python/钟表/钟表.gif)
 二、C/C++
 =====
 1.[字符转8位二进制](https://github.com/ljgithub669/small_project/tree/master/%E5%AD%97%E7%AC%A6%E8%BD%AC%E4%BA%8C%E8%BF%9B%E5%88%B6)
