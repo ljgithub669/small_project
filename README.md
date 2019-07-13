@@ -10,7 +10,7 @@
 ===
 1.[机器猫](https://github.com/ljgithub669/small_project/tree/master/Python/%E6%9C%BA%E5%99%A8%E7%8C%AB)
 ---
-![](./Python/机器猫/机器猫.gif)
+![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/Doraemon/Doraemon.gif)
 2.[海绵宝宝](https://github.com/ljgithub669/small_project/tree/master/Python/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D)
 ---
 ![](./Python/海绵宝宝/海绵宝宝.gif)
