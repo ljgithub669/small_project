@@ -3,7 +3,7 @@
 |------|------|
 |[机器猫](https://github.com/ljgithub669/small_project/tree/master/Python/%E6%9C%BA%E5%99%A8%E7%8C%AB)|[字符转8位二进制](https://github.com/ljgithub669/small_project/tree/master/C/%E5%AD%97%E7%AC%A6%E8%BD%AC%E4%BA%8C%E8%BF%9B%E5%88%B6)|
 |[海绵宝宝](https://github.com/ljgithub669/small_project/tree/master/Python/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D)|[大小写转化](https://github.com/ljgithub669/small_project/tree/master/C/%E5%A4%A7%E5%B0%8F%E5%86%99%E8%BD%AC%E5%8C%96)|
-|[小猪佩奇](https://github.com/ljgithub669/small_project/tree/master/Python/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87)|
+|[小猪佩奇](https://github.com/ljgithub669/small_project/tree/master/Python/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87)|[汉诺塔](https://github.com/ljgithub669/small_project/tree/master/C/%E6%B1%89%E8%AF%BA%E5%A1%94)|
 |[钟表](https://github.com/ljgithub669/small_project/tree/master/Python/%E9%92%9F%E8%A1%A8)|
 
 一、Python
@@ -33,6 +33,6 @@
 ------
 ![](http://ww1.sinaimg.cn/large/006YKa8tly1g4ty1mreusj311y0kg74y.jpg)
 
-3.[汉诺塔]()
+3.[汉诺塔](https://github.com/ljgithub669/small_project/tree/master/C/%E6%B1%89%E8%AF%BA%E5%A1%94)
 ------
 ![](http://ww1.sinaimg.cn/large/006YKa8tly1g4ycvylp7xj311f0iw0tc.jpg)
